@@ -22,8 +22,6 @@
 - Create two new branches from main (branch1 and branch2)
 - Create a new file with your name in branch1, for example `my-name.txt`
 - Commit your changes with the message `feat: add my name`
-- Create a new file with your name in branch2, for example `my-name.txt`
-- Commit your changes with the message `feat: add my name`
 - Push your branches to the remote (origin)
 - Create a pull request from branch1 to main
 
